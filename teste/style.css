@@ -1,0 +1,27 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 10rem;
+    background-color: #2ecad9;
+
+}
+.texto-cabecalho{
+    font-size: 40px;
+    font-weight: 500;
+    font-family: 'Gajraj One', cursive;
+}
+.imagem-cabecalho{
+    float: left;
+    width: 90px;
+    height: 90px;
+}
+.cabecalho-navegacao{
+    display: flex;
+    padding-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navegacao-filho{
+    margin-left: 25px;
+    font-size: 25px;
+}
