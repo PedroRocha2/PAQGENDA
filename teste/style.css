@@ -25,3 +25,20 @@
     margin-left: 25px;
     font-size: 25px;
 }
+
+.texto-PC{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navegacao-pc{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    
+}
